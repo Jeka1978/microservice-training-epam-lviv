@@ -1,0 +1,39 @@
+{
+  "order": {
+    "product2Numbers": {
+      "INTELIJ": 3,
+      "ARTIFACTORY": 1
+    },
+    "price": 2000,
+    "discount": 70,
+    "when": [
+      2017,
+      4,
+      22,
+      13,
+      24,
+      26,
+      396000000
+    ]
+  },
+  "customer": {
+    "id": 1,
+    "name": "Jeka",
+    "age": 38
+  },
+  "price": 2000,
+  "discount": 70,
+  "when": [
+    2017,
+    4,
+    22,
+    13,
+    24,
+    26,
+    396000000
+  ],
+  "product2Numbers": {
+    "INTELIJ": 3,
+    "ARTIFACTORY": 1
+  }
+}
